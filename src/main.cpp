@@ -6,10 +6,10 @@
 #include <HardwareSerial.h>
 #include <Esp.h>
 
-#define RXD2 15 //RX1 pin
-#define TXD2 4 //TX1 pin
-#define RXD1 16 //RXX2 pin
-#define TXD1 17 //TX2 pin
+#define RXD2 15 //RX1 pin ac orange
+#define TXD2 4 //TX1 pin ac brown
+#define RXD1 16 //RXX2 pin stick brown cable
+#define TXD1 17 //TX2 pin orange cable
 
 #define BAUD_RATE 9600
 #define DELIMITER ' '
